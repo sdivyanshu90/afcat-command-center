@@ -1,0 +1,43 @@
+CREATE TABLE IF NOT EXISTS users(id TEXT PRIMARY KEY,email TEXT UNIQUE NOT NULL,password TEXT NOT NULL,role TEXT NOT NULL DEFAULT 'student' CHECK(role IN ('student','admin')),profile TEXT NOT NULL);
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS auth(token TEXT PRIMARY KEY,user_id TEXT NOT NULL REFERENCES users(id),expires INTEGER NOT NULL);
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS rate_limits(key TEXT PRIMARY KEY,hits INTEGER NOT NULL,expires INTEGER NOT NULL);
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS blueprints(version INTEGER PRIMARY KEY,cycle TEXT NOT NULL,body TEXT NOT NULL,created INTEGER NOT NULL);
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS questions(id TEXT PRIMARY KEY,fingerprint TEXT UNIQUE NOT NULL,version INTEGER NOT NULL,state TEXT NOT NULL CHECK(state IN ('draft','validated','review','verified','published','rejected','unpublished')),subject TEXT NOT NULL,topic TEXT NOT NULL,subtopic TEXT NOT NULL,difficulty TEXT NOT NULL,classification TEXT NOT NULL,body TEXT NOT NULL,changed INTEGER NOT NULL);
+--> statement-breakpoint
+CREATE INDEX IF NOT EXISTS question_filter ON questions(state,subject,topic,subtopic,difficulty);
+--> statement-breakpoint
+CREATE INDEX IF NOT EXISTS question_source ON questions(state,classification);
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS question_versions(question_id TEXT REFERENCES questions(id),version INTEGER,body TEXT NOT NULL,created INTEGER NOT NULL,PRIMARY KEY(question_id,version));
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS editorial_log(id INTEGER PRIMARY KEY,actor TEXT NOT NULL,entity TEXT NOT NULL,action TEXT NOT NULL,notes TEXT NOT NULL,created INTEGER NOT NULL);
+--> statement-breakpoint
+CREATE INDEX IF NOT EXISTS editorial_entity ON editorial_log(entity,created);
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS sessions(id TEXT PRIMARY KEY,user_id TEXT REFERENCES users(id),mode TEXT NOT NULL,title TEXT NOT NULL,blueprint INTEGER REFERENCES blueprints(version),started INTEGER NOT NULL,deadline INTEGER,finished INTEGER,result TEXT,position INTEGER NOT NULL DEFAULT 0);
+--> statement-breakpoint
+CREATE INDEX IF NOT EXISTS sessions_user ON sessions(user_id,started DESC);
+--> statement-breakpoint
+CREATE INDEX IF NOT EXISTS open_deadlines ON sessions(deadline) WHERE finished IS NULL AND deadline IS NOT NULL;
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS session_items(session_id TEXT REFERENCES sessions(id),position INTEGER,question_id TEXT,question_version INTEGER,selected INTEGER CHECK(selected BETWEEN 0 AND 3),marked INTEGER NOT NULL DEFAULT 0,visited INTEGER NOT NULL DEFAULT 0,locked INTEGER NOT NULL DEFAULT 0,seconds INTEGER NOT NULL DEFAULT 0,started_view INTEGER,option_order TEXT NOT NULL,PRIMARY KEY(session_id,position),FOREIGN KEY(question_id,question_version) REFERENCES question_versions(question_id,version));
+--> statement-breakpoint
+CREATE INDEX IF NOT EXISTS item_question ON session_items(question_id,session_id);
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS bookmarks(user_id TEXT REFERENCES users(id),question_id TEXT REFERENCES questions(id),PRIMARY KEY(user_id,question_id));
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS revision(user_id TEXT REFERENCES users(id),question_id TEXT REFERENCES questions(id),due INTEGER NOT NULL,stage INTEGER NOT NULL,PRIMARY KEY(user_id,question_id));
+--> statement-breakpoint
+CREATE INDEX IF NOT EXISTS revision_due ON revision(user_id,due);
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS daily(user_id TEXT REFERENCES users(id),day TEXT,task TEXT,PRIMARY KEY(user_id,day,task));
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS jobs(id TEXT PRIMARY KEY,actor TEXT NOT NULL,kind TEXT NOT NULL,summary TEXT NOT NULL,created INTEGER NOT NULL);
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS reports(id INTEGER PRIMARY KEY,user_id TEXT REFERENCES users(id),question_id TEXT REFERENCES questions(id),version INTEGER NOT NULL,body TEXT NOT NULL,resolved INTEGER NOT NULL DEFAULT 0,created INTEGER NOT NULL);
+--> statement-breakpoint
+CREATE TABLE IF NOT EXISTS affairs(id TEXT PRIMARY KEY,body TEXT NOT NULL);
