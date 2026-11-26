@@ -1,0 +1,706 @@
+[
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Fundamental Rights and Duties",
+    "prompt": "A legal safeguard provides equality before the law to every person. Which provision supplies this safeguard?",
+    "options": [
+      "Article 16",
+      "Article 14",
+      "Article 19",
+      "Article 21A"
+    ],
+    "answer": 1,
+    "explanation": "Article 14 protects equality before the law and equal protection of the laws for any person. Article 16 specifically addresses equality of opportunity in public employment.",
+    "difficulty": "Easy",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Fundamental Rights and Duties",
+    "prompt": "Which constitutional right specifically requires the State to provide free and compulsory education for children aged six to fourteen?",
+    "options": [
+      "Article 24",
+      "Article 45",
+      "Article 21A",
+      "Article 51A"
+    ],
+    "answer": 2,
+    "explanation": "Article 21A covers ages six to fourteen. Article 45 addresses early childhood care and education below six, and Article 51A(k) imposes a related duty on parents or guardians.",
+    "difficulty": "Easy",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Fundamental Rights and Duties",
+    "prompt": "A person petitions the Supreme Court directly to enforce a Fundamental Right. Which article provides this right to move the Court?",
+    "options": [
+      "Article 32",
+      "Article 131",
+      "Article 226",
+      "Article 143"
+    ],
+    "answer": 0,
+    "explanation": "Article 32 guarantees access to the Supreme Court for enforcement of Fundamental Rights. Article 226 concerns writ jurisdiction of High Courts.",
+    "difficulty": "Easy",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Fundamental Rights and Duties",
+    "prompt": "Which of these is a Fundamental Duty listed for citizens?",
+    "options": [
+      "To pay income tax each year",
+      "To vote in every general election",
+      "To attend meetings of the Gram Sabha",
+      "To develop scientific temper"
+    ],
+    "answer": 3,
+    "explanation": "Article 51A(h) lists developing scientific temper, humanism and the spirit of inquiry and reform. The other activities do not appear in the list of Fundamental Duties in Article 51A.",
+    "difficulty": "Easy",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Indian Constitution",
+    "prompt": "Which provision describes the Directive Principles as fundamental in governance while making them unenforceable by courts?",
+    "options": [
+      "Article 32",
+      "Article 37",
+      "Article 51A",
+      "Article 13"
+    ],
+    "answer": 1,
+    "explanation": "Article 37 gives the Directive Principles this status and directs the State to apply them in making laws. Article 32 provides for judicial enforcement of Fundamental Rights.",
+    "difficulty": "Medium",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Indian Constitution",
+    "prompt": "Which Preamble ideal expressly covers social, economic and political dimensions?",
+    "options": [
+      "Liberty",
+      "Fraternity",
+      "Justice",
+      "Equality"
+    ],
+    "answer": 2,
+    "explanation": "The Preamble specifies social, economic and political justice. Equality extends to status and opportunity, while liberty covers thought, expression, belief, faith and worship.",
+    "difficulty": "Easy",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Parliament and Government",
+    "prompt": "Who holds the chair of the Rajya Sabha by virtue of holding another constitutional office?",
+    "options": [
+      "Vice-President of India",
+      "Speaker of the Lok Sabha",
+      "Prime Minister of India",
+      "President of India"
+    ],
+    "answer": 0,
+    "explanation": "Article 64 makes the Vice-President the ex officio Chair of the Rajya Sabha, which the Constitution calls the Council of States.",
+    "difficulty": "Easy",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Parliament and Government",
+    "prompt": "A Money Bill passed by the Lok Sabha is sent to the Rajya Sabha. How long does the Rajya Sabha have to return it with any recommendations?",
+    "options": [
+      "Seven days",
+      "Ten days",
+      "Thirty days",
+      "Fourteen days"
+    ],
+    "answer": 3,
+    "explanation": "Article 109 gives the Rajya Sabha fourteen days from receipt. If the bill is not returned in time, it is deemed passed by both Houses in its Lok Sabha form.",
+    "difficulty": "Medium",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Parliament and Government",
+    "prompt": "Which body can withdraw the confidence on which the Union Council of Ministers collectively depends under Article 75?",
+    "options": [
+      "Rajya Sabha",
+      "Lok Sabha",
+      "Election Commission",
+      "Union Public Service Commission"
+    ],
+    "answer": 1,
+    "explanation": "Article 75(3) makes the Union Council of Ministers collectively responsible to the House of the People, the Lok Sabha.",
+    "difficulty": "Easy",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Parliament and Government",
+    "prompt": "Which statement about the Rajya Sabha reflects Article 83?",
+    "options": [
+      "It is dissolved after each general election.",
+      "Its entire membership retires every two years.",
+      "About one-third of its members retire every second year.",
+      "All members serve for the same five-year term."
+    ],
+    "answer": 2,
+    "explanation": "The Rajya Sabha is a continuing House. Article 83(1) provides for the retirement of as nearly as possible one-third of its members every second year.",
+    "difficulty": "Medium",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Parliament and Government",
+    "prompt": "Which of these groups participates in the election of the President of India?",
+    "options": [
+      "Elected members of both Houses of Parliament",
+      "Nominated members of the Rajya Sabha",
+      "Nominated members of state legislative assemblies",
+      "Elected members of state legislative councils"
+    ],
+    "answer": 0,
+    "explanation": "Article 54 includes elected members of both Houses of Parliament and elected members of the legislative assemblies of the states. For this purpose, states include Delhi and Puducherry. Nominated members and legislative council members are outside this electoral college.",
+    "difficulty": "Medium",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Parliament and Government",
+    "prompt": "Which Article provides for presidential ordinances when at least one House is out of session and circumstances require immediate action?",
+    "options": [
+      "Article 72",
+      "Article 110",
+      "Article 213",
+      "Article 123"
+    ],
+    "answer": 3,
+    "explanation": "Article 123 grants this power to the President. Article 213 gives the comparable ordinance power to a state Governor.",
+    "difficulty": "Medium",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Judiciary and Constitutional Bodies",
+    "prompt": "Which constitutional authority primarily audits Union and state government accounts in accordance with law?",
+    "options": [
+      "Finance Commission",
+      "Comptroller and Auditor-General",
+      "Union Public Service Commission",
+      "Election Commission of India"
+    ],
+    "answer": 1,
+    "explanation": "Articles 148 and 149 establish the Comptroller and Auditor-General and provide for duties and powers relating to specified public accounts. The Finance Commission makes fiscal recommendations.",
+    "difficulty": "Easy",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Judiciary and Constitutional Bodies",
+    "prompt": "Which commission recommends how the net proceeds of shareable Union taxes should be distributed between the Union and the states?",
+    "options": [
+      "Election Commission",
+      "Union Public Service Commission",
+      "Finance Commission",
+      "National Commission for Scheduled Castes"
+    ],
+    "answer": 2,
+    "explanation": "Article 280 charges the Finance Commission with making recommendations on the distribution of shareable taxes between the Union and the states, among other fiscal matters.",
+    "difficulty": "Easy",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Judiciary and Constitutional Bodies",
+    "prompt": "Which election falls under the State Election Commission rather than the Election Commission of India?",
+    "options": [
+      "A municipal council election",
+      "A state assembly election",
+      "A presidential election",
+      "A Lok Sabha election"
+    ],
+    "answer": 0,
+    "explanation": "Article 243ZA assigns municipal elections to the State Election Commission referred to in Article 243K. Article 324 governs the Election Commission of India for the other listed elections.",
+    "difficulty": "Medium",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Judiciary and Constitutional Bodies",
+    "prompt": "A court issues a writ directing that a detained person be brought before it so it can examine the legality of the detention. Which writ is this?",
+    "options": [
+      "Mandamus",
+      "Certiorari",
+      "Quo warranto",
+      "Habeas corpus"
+    ],
+    "answer": 3,
+    "explanation": "Habeas corpus lets the court examine the legality of detention. Mandamus directs performance of a public duty, certiorari can quash an order and quo warranto tests a person's entitlement to a public office.",
+    "difficulty": "Medium",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Indian Constitution",
+    "prompt": "Which constitutional schedule lists subjects on which both Parliament and state legislatures can generally legislate?",
+    "options": [
+      "Eighth Schedule",
+      "Seventh Schedule",
+      "Tenth Schedule",
+      "Eleventh Schedule"
+    ],
+    "answer": 1,
+    "explanation": "List III, the Concurrent List, is in the Seventh Schedule. The same schedule contains the Union and State Lists, which allocate other legislative fields.",
+    "difficulty": "Easy",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Indian Constitution",
+    "prompt": "A disqualification arises because a legislator voluntarily gave up membership of their political party. Which schedule contains the applicable anti-defection provisions?",
+    "options": [
+      "Fifth Schedule",
+      "Sixth Schedule",
+      "Tenth Schedule",
+      "Twelfth Schedule"
+    ],
+    "answer": 2,
+    "explanation": "The Tenth Schedule sets out disqualification on grounds of defection. One listed ground is voluntarily giving up membership of the political party to which the legislator belongs, subject to the schedule's provisions.",
+    "difficulty": "Medium",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Indian Constitution",
+    "prompt": "Which constitutional amendment introduced Part IX on Panchayats?",
+    "options": [
+      "73rd Amendment",
+      "74th Amendment",
+      "42nd Amendment",
+      "44th Amendment"
+    ],
+    "answer": 0,
+    "explanation": "The 73rd Amendment inserted Part IX and the Eleventh Schedule for rural local government. The 74th introduced Part IXA and the Twelfth Schedule for municipalities.",
+    "difficulty": "Easy",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Indian Constitution",
+    "prompt": "Which is a constitutional ground for proclaiming a National Emergency under Article 352?",
+    "options": [
+      "An economic recession",
+      "Breakdown of constitutional machinery in a state",
+      "A parliamentary deadlock",
+      "An armed rebellion"
+    ],
+    "answer": 3,
+    "explanation": "Article 352 lists war, external aggression and armed rebellion as grounds. Failure of state constitutional machinery is addressed by Article 356, and financial emergency by Article 360.",
+    "difficulty": "Medium",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Indian Constitution",
+    "prompt": "A proposed constitutional amendment changes a legislative list in the Seventh Schedule. Beyond Parliament's special-majority passage, what approval is required before the bill goes to the President?",
+    "options": [
+      "Approval by two-thirds of the state governors",
+      "Ratification by legislatures of at least half the states",
+      "Ratification by all state legislatures",
+      "Approval by a nationwide referendum"
+    ],
+    "answer": 1,
+    "explanation": "Article 368 requires ratification by at least half the state legislatures for specified federal changes, including changes to any of the Seventh Schedule's lists.",
+    "difficulty": "Hard",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Indian Polity",
+    "subtopic": "Indian Constitution",
+    "prompt": "Which amendment lowered the minimum voting age for Lok Sabha and state legislative assembly elections from 21 to 18?",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "61st Amendment",
+      "73rd Amendment"
+    ],
+    "answer": 2,
+    "explanation": "The 61st Amendment amended Article 326 to lower the qualifying voting age to eighteen. The 73rd Amendment concerns Panchayats.",
+    "difficulty": "Medium",
+    "source": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Defence",
+    "subtopic": "IAF History",
+    "prompt": "Which date marks the establishment of the Indian Air Force and is commemorated as Air Force Day?",
+    "options": [
+      "15 January 1932",
+      "8 October 1932",
+      "4 December 1932",
+      "1 April 1932"
+    ],
+    "answer": 1,
+    "explanation": "The Indian Air Force was established on 8 October 1932. Air Force Day commemorates this date.",
+    "difficulty": "Easy",
+    "source": "https://careerairforce.gov.in/indian-air-force-history"
+  },
+  {
+    "subject": "ga",
+    "topic": "Defence",
+    "subtopic": "IAF History",
+    "prompt": "Who assumed office in 1954 as the first Indian Chief of the Air Staff?",
+    "options": [
+      "Arjan Singh",
+      "Aspy Engineer",
+      "Subroto Mukerjee",
+      "Pratap Chandra Lal"
+    ],
+    "answer": 2,
+    "explanation": "Air Marshal Subroto Mukerjee became the first Indian Chief of the Air Staff on 1 April 1954. The other officers also served as Chiefs of the Air Staff in later years.",
+    "difficulty": "Medium",
+    "source": "https://static.pib.gov.in/WriteReadData/userfiles/Unsung%20Heroes%20of%20Freedom%20Movement_p1.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Defence",
+    "subtopic": "Defence Institutions",
+    "prompt": "Which Indian Air Force training institution is located at Dundigal near Hyderabad?",
+    "options": [
+      "Air Force Academy",
+      "Flying Instructors' School",
+      "College of Air Warfare",
+      "National Defence Academy"
+    ],
+    "answer": 0,
+    "explanation": "The Air Force Academy is at Dundigal. It was established in 1971 as a training institution for Air Force officers.",
+    "difficulty": "Easy",
+    "source": "https://careerairforce.gov.in/afa"
+  },
+  {
+    "subject": "ga",
+    "topic": "Defence",
+    "subtopic": "Gallantry Awards",
+    "prompt": "Which award ranks highest among India's wartime gallantry decorations?",
+    "options": [
+      "Vir Chakra",
+      "Shaurya Chakra",
+      "Maha Vir Chakra",
+      "Param Vir Chakra"
+    ],
+    "answer": 3,
+    "explanation": "The Param Vir Chakra ranks above the Maha Vir Chakra and Vir Chakra among wartime gallantry awards. The Shaurya Chakra is in the separate non-wartime gallantry order.",
+    "difficulty": "Easy",
+    "source": "https://www.pib.gov.in/FeaturesDeatils.aspx?ModuleId=2&NoteId=156609&lang=1&reg=3"
+  },
+  {
+    "subject": "ga",
+    "topic": "Defence",
+    "subtopic": "Gallantry Awards",
+    "prompt": "Which flying officer received the Param Vir Chakra posthumously for gallantry during the 1971 war?",
+    "options": [
+      "Rakesh Sharma",
+      "Nirmal Jit Singh Sekhon",
+      "K. K. Majumdar",
+      "S. K. Mehra"
+    ],
+    "answer": 1,
+    "explanation": "Flying Officer Nirmal Jit Singh Sekhon received the Param Vir Chakra posthumously for his actions during the 1971 war.",
+    "difficulty": "Medium",
+    "source": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1754825&lang=2&reg=48"
+  },
+  {
+    "subject": "ga",
+    "topic": "Defence",
+    "subtopic": "Defence History",
+    "prompt": "Vijay Diwas on 16 December commemorates the outcome of which conflict?",
+    "options": [
+      "The Kargil War of 1999",
+      "The 1965 India–Pakistan War",
+      "The 1971 India–Pakistan War",
+      "The 1962 India–China War"
+    ],
+    "answer": 2,
+    "explanation": "Vijay Diwas on 16 December marks the 1971 victory associated with Bangladesh's liberation. Kargil Vijay Diwas is a separate commemoration.",
+    "difficulty": "Easy",
+    "source": "https://www.pib.gov.in/FeaturesDeatils.aspx?ModuleId=2&NoteId=156609&lang=1&reg=3"
+  },
+  {
+    "subject": "ga",
+    "topic": "Defence",
+    "subtopic": "IAF Branches",
+    "prompt": "Which pair correctly identifies the two broad types of Ground Duty entry listed alongside the Flying Branch in the AFCAT 01/2027 notification?",
+    "options": [
+      "Technical and Non-Technical",
+      "Administrative and Meteorological",
+      "Accounts and Logistics",
+      "Education and Weapon Systems"
+    ],
+    "answer": 0,
+    "explanation": "AFCAT 01/2027 groups Ground Duty entries into Technical and Non-Technical categories. Accounts, Logistics and other listed roles are branches or specialisations within the respective categories.",
+    "difficulty": "Easy",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "History",
+    "subtopic": "Ancient Indian History",
+    "prompt": "Which archaeological site is a Harappan urban settlement on Khadir Island in Gujarat?",
+    "options": [
+      "Lothal",
+      "Kalibangan",
+      "Rakhigarhi",
+      "Dholavira"
+    ],
+    "answer": 3,
+    "explanation": "Dholavira stands on Khadir Island in the Rann of Kutch. Its surviving reservoirs illustrate the city's water management in a dry region.",
+    "difficulty": "Medium",
+    "source": "https://whc.unesco.org/en/list/1645/"
+  },
+  {
+    "subject": "ga",
+    "topic": "History",
+    "subtopic": "Indian National Movement",
+    "prompt": "At which coastal village did Gandhi break the colonial salt law at the end of the 1930 Salt March?",
+    "options": [
+      "Porbandar",
+      "Dandi",
+      "Chauri Chaura",
+      "Bardoli"
+    ],
+    "answer": 1,
+    "explanation": "Gandhi reached Dandi and broke the salt law there on 6 April 1930. Bardoli was the site of an earlier satyagraha against increased land revenue.",
+    "difficulty": "Easy",
+    "source": "https://www.ncert.nic.in/pdf/publication/otherpublications/tioi101.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Geography",
+    "subtopic": "Indian Geography",
+    "prompt": "Kaziranga National Park lies in the floodplain of which major river?",
+    "options": [
+      "Narmada",
+      "Mahanadi",
+      "Brahmaputra",
+      "Godavari"
+    ],
+    "answer": 2,
+    "explanation": "Kaziranga lies on the floodplain of the Brahmaputra in Assam. Seasonal flooding helps shape its grassland and wetland habitats.",
+    "difficulty": "Medium",
+    "source": "https://whc.unesco.org/en/list/337/"
+  },
+  {
+    "subject": "ga",
+    "topic": "Economy",
+    "subtopic": "Currency and Banking",
+    "prompt": "Which denomination of Indian paper currency constitutes a direct liability of the Government of India under the coinage framework?",
+    "options": [
+      "₹1",
+      "₹10",
+      "₹20",
+      "₹50"
+    ],
+    "answer": 0,
+    "explanation": "The ₹1 note is treated as a rupee coin for purposes of the RBI Act and is a liability of the Government of India. The other options are RBI banknotes.",
+    "difficulty": "Medium",
+    "source": "https://rbi.org.in/commonman/Upload/English/FAQs/PDFs/INDIANCURRENCY15042025.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Basic Science",
+    "subtopic": "Basic Physics",
+    "prompt": "A bell is struck inside a sealed vessel from which all air has been removed. What explains why the sound cannot travel through the empty space?",
+    "options": [
+      "Its wavelength becomes zero.",
+      "Its pitch exceeds the audible range.",
+      "Its amplitude increases beyond the vessel's limit.",
+      "Sound needs a material medium to propagate."
+    ],
+    "answer": 3,
+    "explanation": "Sound travels through mechanical vibrations of matter. A vacuum has no particles to transmit those vibrations, although a solid support can provide a separate path.",
+    "difficulty": "Easy",
+    "source": "https://www.ncert.nic.in/pdf/publication/otherpublications/tiicsnups101.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Basic Science",
+    "subtopic": "Basic Chemistry",
+    "prompt": "A solution turns blue litmus red. Which conclusion about the solution is supported by this observation?",
+    "options": [
+      "It is neutral.",
+      "It is acidic.",
+      "It is basic.",
+      "It is pure water."
+    ],
+    "answer": 1,
+    "explanation": "Acids turn blue litmus red. Bases turn red litmus blue. Litmus indicates acidity or basicity without identifying the particular solute.",
+    "difficulty": "Easy",
+    "source": "https://www.ncert.nic.in/textbook/pdf/jesc102.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Basic Science",
+    "subtopic": "Human Body",
+    "prompt": "Which structures provide the main gas-exchange surface in the human lungs?",
+    "options": [
+      "Trachea",
+      "Bronchi",
+      "Alveoli",
+      "Diaphragm"
+    ],
+    "answer": 2,
+    "explanation": "Alveoli are tiny air sacs with thin walls and a dense capillary supply. Together they provide a large surface for diffusion of oxygen and carbon dioxide.",
+    "difficulty": "Easy",
+    "source": "https://www.ncert.nic.in/textbook/pdf/jesc105.pdf"
+  },
+  {
+    "subject": "ga",
+    "topic": "Science and Technology",
+    "subtopic": "ISRO and Space",
+    "prompt": "Which satellite was designed and fabricated in India and launched as the country's first satellite in 1975?",
+    "options": [
+      "Aryabhata",
+      "Rohini RS-1",
+      "Bhaskara-I",
+      "APPLE"
+    ],
+    "answer": 0,
+    "explanation": "Aryabhata was India's first satellite and was launched from the Soviet Union on 19 April 1975. Rohini RS-1 entered orbit in 1980 on an Indian SLV-3.",
+    "difficulty": "Easy",
+    "source": "https://www.isro.gov.in/aryabhata_1.html?timeline=timeline"
+  },
+  {
+    "subject": "ga",
+    "topic": "Science and Technology",
+    "subtopic": "ISRO and Space",
+    "prompt": "Which capability was among the principal objectives of ISRO's Chandrayaan-3 mission?",
+    "options": [
+      "Returning lunar samples to Earth",
+      "Mapping the atmosphere of Venus",
+      "Delivering astronauts to lunar orbit",
+      "Demonstrating rover movement on the Moon"
+    ],
+    "answer": 3,
+    "explanation": "Chandrayaan-3 aimed to demonstrate safe lunar soft landing and rover movement, and to perform experiments on the lunar surface.",
+    "difficulty": "Easy",
+    "source": "https://www.isro.gov.in/ISRO_EN/Chandrayaan3_Details.html"
+  },
+  {
+    "subject": "ga",
+    "topic": "Environment and Ecology",
+    "subtopic": "Protected Areas",
+    "prompt": "Which animal is particularly associated with the conservation significance of Kaziranga National Park?",
+    "options": [
+      "Asiatic lion",
+      "Greater one-horned rhinoceros",
+      "Nilgiri tahr",
+      "Hangul"
+    ],
+    "answer": 1,
+    "explanation": "Kaziranga is internationally recognised for its population of the greater one-horned rhinoceros. The Asiatic lion is associated with Gir and the Nilgiri tahr with the Western Ghats.",
+    "difficulty": "Easy",
+    "source": "https://whc.unesco.org/en/list/337/"
+  },
+  {
+    "subject": "ga",
+    "topic": "Sports",
+    "subtopic": "Olympic Games",
+    "prompt": "In which sport did India begin a run of six consecutive Olympic gold medals at the 1928 Games?",
+    "options": [
+      "Wrestling",
+      "Athletics",
+      "Men's field hockey",
+      "Shooting"
+    ],
+    "answer": 2,
+    "explanation": "India won six consecutive men's Olympic field hockey gold medals from 1928 through 1956. The Olympic Games scheduled for 1940 and 1944 were cancelled.",
+    "difficulty": "Easy",
+    "source": "https://www.olympics.com/ioc/international-hockey-federation"
+  },
+  {
+    "subject": "ga",
+    "topic": "Art and Culture",
+    "subtopic": "Architecture",
+    "prompt": "The Brihadisvara Temple at Thanjavur is included in which UNESCO World Heritage property?",
+    "options": [
+      "Great Living Chola Temples",
+      "Group of Monuments at Hampi",
+      "Group of Monuments at Mahabalipuram",
+      "Sacred Ensembles of the Hoysalas"
+    ],
+    "answer": 0,
+    "explanation": "Thanjavur's Brihadisvara Temple is one of the Great Living Chola Temples. The property also includes temples at Gangaikondacholapuram and Darasuram.",
+    "difficulty": "Medium",
+    "source": "https://whc.unesco.org/en/list/250/"
+  },
+  {
+    "subject": "ga",
+    "topic": "International Organisations",
+    "subtopic": "United Nations",
+    "prompt": "Which group contains only permanent members of the United Nations Security Council?",
+    "options": [
+      "China, Japan and Russia",
+      "India, France and the United Kingdom",
+      "Brazil, China and the United States",
+      "China, France and the United Kingdom"
+    ],
+    "answer": 3,
+    "explanation": "The five permanent members are China, France, Russia, the United Kingdom and the United States. Japan, India and Brazil do not have permanent seats.",
+    "difficulty": "Easy",
+    "source": "https://main.un.org/securitycouncil/en/content/current-members"
+  },
+  {
+    "subject": "ga",
+    "topic": "International Organisations",
+    "subtopic": "United Nations",
+    "prompt": "Which two United Nations organs elect judges of the International Court of Justice by voting independently?",
+    "options": [
+      "General Assembly and Security Council",
+      "General Assembly and Economic and Social Council",
+      "Security Council and Secretariat",
+      "Secretariat and Trusteeship Council"
+    ],
+    "answer": 0,
+    "explanation": "Under the Court's Statute, judges are elected by the General Assembly and Security Council. Each organ votes independently.",
+    "difficulty": "Medium",
+    "source": "https://www.un.org/en/about-us/un-charter/statute-of-the-international-court-of-justice"
+  },
+  {
+    "subject": "ga",
+    "topic": "Current Affairs",
+    "subtopic": "Defence Current Affairs",
+    "prompt": "Which service hosted the November 2026 Indo-Pacific Regional Dialogue in New Delhi?",
+    "options": [
+      "Indian Coast Guard",
+      "Indian Air Force",
+      "Indian Army",
+      "Indian Navy"
+    ],
+    "answer": 3,
+    "explanation": "The Indian Navy convened the 2026 Indo-Pacific Regional Dialogue in partnership with the National Maritime Foundation. PIB reported the opening on 3 November 2026.",
+    "difficulty": "Medium",
+    "source": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2332175&lang=1&reg=1"
+  }
+]

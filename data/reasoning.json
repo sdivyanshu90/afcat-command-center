@@ -1,0 +1,409 @@
+[
+  {
+    "subject": "rea",
+    "topic": "Analogies",
+    "subtopic": "Instrument and measured quantity",
+    "prompt": "An ammeter measures electric current. In the same way, a barometer measures which quantity?",
+    "options": [
+      "Relative humidity",
+      "Atmospheric pressure",
+      "Wind speed",
+      "Air temperature"
+    ],
+    "answer": 1,
+    "explanation": "The relationship is instrument to measured quantity. A barometer measures atmospheric pressure. Humidity, wind speed, and temperature are measured by a hygrometer, anemometer, and thermometer respectively.",
+    "difficulty": "Easy",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Analogies",
+    "subtopic": "Reversal and shift",
+    "prompt": "In the pair COLD → EMPD, the first word is reversed and then each letter is replaced by the next letter in the alphabet. Which code is formed from RISE by the same rule?",
+    "options": [
+      "SJTF",
+      "FSJT",
+      "DRHQ",
+      "FTJS"
+    ],
+    "answer": 3,
+    "explanation": "Reversing RISE gives ESIR. Advancing those letters by one gives F, T, J, and S.",
+    "difficulty": "Easy",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Classification",
+    "subtopic": "Relationships in number pairs",
+    "prompt": "Three pairs follow the same relationship between their first and second numbers. Which pair differs?",
+    "options": [
+      "(4, 19)",
+      "(6, 39)",
+      "(7, 51)",
+      "(9, 84)"
+    ],
+    "answer": 2,
+    "explanation": "In three pairs, the second number is the square of the first plus 3. For 7, this gives 52, so (7, 51) differs.",
+    "difficulty": "Medium",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Classification",
+    "subtopic": "Container and contents",
+    "prompt": "Three pairs name a container followed by something typically stored in it. Which pair differs?",
+    "options": [
+      "Compass – direction",
+      "Quiver – arrows",
+      "Tank – water",
+      "Sheath – blade"
+    ],
+    "answer": 0,
+    "explanation": "A compass indicates direction. Each other first word names a physical container or cover for the object listed second.",
+    "difficulty": "Easy",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Number and Letter Series",
+    "subtopic": "Alternating sequences",
+    "prompt": "The terms in odd positions form one arithmetic sequence and the terms in even positions form another. Which number comes next? 6, 42, 11, 37, 16, 32, 21, ?",
+    "options": [
+      "24",
+      "27",
+      "26",
+      "31"
+    ],
+    "answer": 1,
+    "explanation": "Odd positions increase by 5. Even positions decrease by 5 from 42 to 37 to 32, so the next even-position term is 27.",
+    "difficulty": "Easy",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Number and Letter Series",
+    "subtopic": "Increasing differences",
+    "prompt": "Starting with the first term, the differences between consecutive terms form an arithmetic sequence. Find the missing term in 8, 13, 21, 32, ?, 63.",
+    "options": [
+      "44",
+      "45",
+      "49",
+      "46"
+    ],
+    "answer": 3,
+    "explanation": "The first differences are 5, 8, and 11. The following differences are 14 and 17. Adding 14 to 32 gives 46, and adding 17 to 46 gives 63.",
+    "difficulty": "Medium",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Number and Letter Series",
+    "subtopic": "Paired alphabet shifts",
+    "prompt": "In this series, the first letters move forward by a fixed step and the second letters move backward by a fixed step. Which pair comes next? CX, FU, IR, LO, ?",
+    "options": [
+      "NK",
+      "PL",
+      "OL",
+      "OM"
+    ],
+    "answer": 2,
+    "explanation": "The first letters advance three places each time: C, F, I, L, O. The second letters go back three places each time: X, U, R, O, L. The result is OL.",
+    "difficulty": "Easy",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Coding-Decoding",
+    "subtopic": "Alternating alphabet shifts",
+    "prompt": "A code shifts letters in odd positions by one place in one direction and letters in even positions by one place in the opposite direction. If FOLD becomes GNMC, how is MINT written?",
+    "options": [
+      "NHOS",
+      "NJOR",
+      "LJMU",
+      "NHNU"
+    ],
+    "answer": 0,
+    "explanation": "F becomes G and L becomes M, so the odd positions advance one place. O becomes N and D becomes C, so the even positions move back one place. MINT therefore becomes NHOS.",
+    "difficulty": "Medium",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Coding-Decoding",
+    "subtopic": "Code words from overlap",
+    "prompt": "Each word has a distinct code and code order can vary. “Clouds bring rain” is coded as “ti vo pa”, “rain cools air” as “ne sa vo”, and “clouds cover hills” as “pa lu ke”. Which code means “bring”?",
+    "options": [
+      "vo",
+      "ti",
+      "pa",
+      "lu"
+    ],
+    "answer": 1,
+    "explanation": "The first two sentences share only rain, so vo means rain. The first and third share only clouds, so pa means clouds. That leaves ti for bring.",
+    "difficulty": "Medium",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Logical Relationships",
+    "subtopic": "Deduction with quantifiers",
+    "prompt": "All surveyors are trained map readers. Some surveyors are volunteers. Which conclusion must follow?",
+    "options": [
+      "All volunteers are surveyors.",
+      "Some map readers are untrained.",
+      "No volunteers are trained map readers.",
+      "Some volunteers are trained map readers."
+    ],
+    "answer": 3,
+    "explanation": "The surveyors who are volunteers must also be trained map readers because the first statement covers all surveyors. The statements do not specify whether all volunteers are surveyors.",
+    "difficulty": "Easy",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Logical Relationships",
+    "subtopic": "Necessary conditions",
+    "prompt": "Every visitor who enters the reading room shows a pass. No person without an appointment can obtain a pass. Leela entered the reading room. What must be true?",
+    "options": [
+      "Everyone who showed a pass entered the reading room.",
+      "Leela obtained her pass on the day of her visit.",
+      "Leela had an appointment.",
+      "Leela was the first visitor to arrive."
+    ],
+    "answer": 2,
+    "explanation": "Entering implies that Leela showed a pass. Having a pass requires an appointment under the rules. Nothing establishes the time she obtained the pass or who arrived first.",
+    "difficulty": "Medium",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Directional Reasoning",
+    "subtopic": "Net displacement",
+    "prompt": "From a flagpole, a walker travels 8 m east, then 6 m north, then 3 m west. In which direction from the flagpole is the walker?",
+    "options": [
+      "North-east",
+      "North-west",
+      "South-east",
+      "South-west"
+    ],
+    "answer": 0,
+    "explanation": "The final point is 5 m east and 6 m north of the flagpole. Both components place it north-east.",
+    "difficulty": "Easy",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Directional Reasoning",
+    "subtopic": "Successive quarter-turns",
+    "prompt": "A person faces west, turns 90° clockwise, then 180° anticlockwise, and finally 90° clockwise. Which direction are they now facing?",
+    "options": [
+      "North",
+      "West",
+      "East",
+      "South"
+    ],
+    "answer": 1,
+    "explanation": "West becomes north after the first turn. The half-turn makes the person face south. A clockwise quarter-turn from south brings them back to west.",
+    "difficulty": "Medium",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Analytical Reasoning",
+    "subtopic": "Relative ranking",
+    "prompt": "Five runners finish with no ties. Priya finishes ahead of Aman but behind Neha. Vikram finishes behind Aman but ahead of Zoya. Who finishes third?",
+    "options": [
+      "Neha",
+      "Priya",
+      "Vikram",
+      "Aman"
+    ],
+    "answer": 3,
+    "explanation": "Combining the two comparisons gives Neha, Priya, Aman, Vikram, and Zoya in order. Aman is third.",
+    "difficulty": "Easy",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Analytical Reasoning",
+    "subtopic": "Ordering with a fixed position and adjacency",
+    "prompt": "Six talks, A through F, occupy slots 1 to 6, one talk per slot. E occupies slot 3. A is immediately before D. B is earlier than A, C is later than D, and F is earlier than B. Which talk occupies slot 2?",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "F"
+    ],
+    "answer": 2,
+    "explanation": "A and D cannot use slots 1 and 2 because B must come before A. They cannot use slots 5 and 6 because C must come after D. Slot 3 is taken, so A and D must be fourth and fifth. C is sixth. F precedes B in the two remaining slots, so B is second.",
+    "difficulty": "Hard",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Analytical Reasoning",
+    "subtopic": "Seating on a bench",
+    "prompt": "Five people sit on a bench. Isha sits in the middle. Mina sits immediately to the left of Omar. Neel is at the left end, and Rupa sits to the left of Isha. Who sits immediately to the right of Isha?",
+    "options": [
+      "Neel",
+      "Mina",
+      "Omar",
+      "Rupa"
+    ],
+    "answer": 1,
+    "explanation": "Neel and Rupa take the first two seats, and Isha is third. The adjacent pair Mina and Omar occupies seats 4 and 5, so Mina is immediately right of Isha.",
+    "difficulty": "Medium",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Venn Diagrams",
+    "subtopic": "Members in neither group",
+    "prompt": "Of 32 students, 18 attend the debate club and 15 attend the music club. Seven attend both. How many attend neither club?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "The clubs have 18 + 15 − 7 = 26 distinct attendees because the seven dual members would otherwise be counted twice. The other 32 − 26 = 6 students attend neither.",
+    "difficulty": "Medium",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Venn Diagrams",
+    "subtopic": "Subset and overlapping set",
+    "prompt": "Every birder is a hiker. Some hikers are photographers, including some birders. There are also hikers who are neither birders nor photographers, and photographers who are not hikers. Which Venn description matches all the facts?",
+    "options": [
+      "The birders circle contains the hikers circle, which is separate from photographers.",
+      "All three circles are separate.",
+      "The hikers circle contains the birders circle. The photographers circle crosses the hikers boundary and overlaps part of the birders circle.",
+      "The hikers circle contains both the birders and photographers circles, which do not overlap."
+    ],
+    "answer": 2,
+    "explanation": "Birders must lie wholly inside hikers. Photographers include people inside and outside hikers, so that circle crosses the hikers boundary. Its overlap with birders accounts for the birders who are photographers.",
+    "difficulty": "Hard",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "rea",
+    "topic": "Spatial Reasoning",
+    "subtopic": "Cube nets",
+    "prompt": "Fold the cube net shown. The middle row reads B, C, D, E from left to right. A is directly above C and F is directly below C. Which face is opposite B?",
+    "options": [
+      "D",
+      "A",
+      "E",
+      "F"
+    ],
+    "answer": 0,
+    "explanation": "Use C as the front face. B and D fold around opposite edges of C to form the left and right faces. They therefore face one another across the cube.",
+    "difficulty": "Hard",
+    "source": "https://www.careerairforce.gov.in/afcat-model-questions",
+    "diagram": "  A\nB C D E\n  F"
+  },
+  {
+    "subject": "rea",
+    "topic": "Spatial Reasoning",
+    "subtopic": "Reflection across a vertical line",
+    "prompt": "A vertical mirror is placed to the right of the two-row figure. The top row is dot then right arrow. The bottom row is square then plus. From left to right, what is the first row of the mirror image?",
+    "options": [
+      "Dot, left arrow",
+      "Right arrow, dot",
+      "Plus, square",
+      "Left arrow, dot"
+    ],
+    "answer": 3,
+    "explanation": "The vertical mirror reverses left and right and keeps the rows in the same vertical order. The right arrow moves to the left position and points left, with the dot to its right.",
+    "difficulty": "Medium",
+    "source": "https://www.careerairforce.gov.in/afcat-model-questions",
+    "diagram": "● → │\n■ + │"
+  },
+  {
+    "subject": "rea",
+    "topic": "Figure Series",
+    "subtopic": "Rotation with alternating fill",
+    "prompt": "Each pair contains an arrow and a circle. The arrow turns 90° clockwise and the circle alternates between filled and hollow at each step. What is the fifth pair after upward arrow/filled, right arrow/hollow, downward arrow/filled, left arrow/hollow?",
+    "options": [
+      "Upward arrow, hollow circle",
+      "Upward arrow, filled circle",
+      "Right arrow, filled circle",
+      "Downward arrow, hollow circle"
+    ],
+    "answer": 1,
+    "explanation": "A clockwise quarter-turn from left points up. Switching a hollow circle gives a filled circle.",
+    "difficulty": "Easy",
+    "source": "https://www.careerairforce.gov.in/afcat-model-questions",
+    "diagram": "↑ ●   → ○   ↓ ●   ← ○   ?"
+  },
+  {
+    "subject": "rea",
+    "topic": "Figure Series",
+    "subtopic": "Alternating blank and marked positions",
+    "prompt": "In each 2 by 2 panel, a dot moves one corner clockwise from top left to top right to bottom right to bottom left. A cross occupies the corner diagonally opposite the dot. The first three panels have the dot in the first three positions named. Where are the marks in panel four?",
+    "options": [
+      "Dot top right, cross bottom left",
+      "Dot bottom right, cross top left",
+      "Dot bottom left, cross top right",
+      "Dot bottom left, cross top left"
+    ],
+    "answer": 2,
+    "explanation": "After bottom right, the dot moves clockwise to bottom left. The opposite corner is top right, where the cross goes.",
+    "difficulty": "Medium",
+    "source": "https://www.careerairforce.gov.in/afcat-model-questions",
+    "diagram": "● ·    · ●    × ·\n· ×    × ·    · ●"
+  },
+  {
+    "subject": "rea",
+    "topic": "Pattern Completion",
+    "subtopic": "Matching row counts",
+    "prompt": "A 3 by 3 grid uses filled and hollow circles. Each row and each column must contain exactly one filled circle. In row 1 it is in column 2, and in row 2 it is in column 3. Which cell in row 3 must be filled?",
+    "options": [
+      "Column 1",
+      "Column 2",
+      "Column 3",
+      "No cell in row 3"
+    ],
+    "answer": 0,
+    "explanation": "Columns 2 and 3 already each contain one filled circle. Row 3 still needs one, so it must go in column 1.",
+    "difficulty": "Easy",
+    "source": "https://www.careerairforce.gov.in/afcat-model-questions",
+    "diagram": "○ ● ○\n○ ○ ●\n? ? ?"
+  },
+  {
+    "subject": "rea",
+    "topic": "Pattern Completion",
+    "subtopic": "Overlay with cancellation",
+    "prompt": "Two panels each have two rows and three columns. A cell in their combined panel is filled only if exactly one of the two corresponding cells is filled. Panel 1 has filled cells at top left, top right, and bottom middle. Panel 2 has them at top middle, top right, and bottom middle. Which cells are filled in the combined panel?",
+    "options": [
+      "Top middle and bottom middle",
+      "Top left and top right",
+      "Top right and bottom middle",
+      "Top left and top middle"
+    ],
+    "answer": 3,
+    "explanation": "The shared filled cells at top right and bottom middle cancel. The positions filled in exactly one panel are top left and top middle.",
+    "difficulty": "Hard",
+    "source": "https://www.careerairforce.gov.in/afcat-model-questions",
+    "diagram": "● ○ ●    ○ ● ●\n○ ● ○    ○ ● ○"
+  },
+  {
+    "subject": "rea",
+    "topic": "Non-Verbal Classification",
+    "subtopic": "Symmetry of marked cells",
+    "prompt": "Four 2 by 2 panels each contain two filled cells. Three panels are symmetric under reflection in a diagonal or a vertical line through the panel centre. Which panel lacks both of those symmetries?",
+    "options": [
+      "Panel A: left column filled",
+      "Panel B: upper-left and lower-right filled",
+      "Panel C: top row filled",
+      "Panel D: lower-left and upper-right filled"
+    ],
+    "answer": 0,
+    "explanation": "Panel A reflects onto itself across a horizontal line only. Panel C reflects across a vertical line, and panels B and D each reflect across a diagonal.",
+    "difficulty": "Medium",
+    "source": "https://www.careerairforce.gov.in/afcat-model-questions",
+    "diagram": "A      B      C      D\n● ○    ● ○    ● ●    ○ ●\n● ○    ○ ●    ○ ○    ● ○"
+  }
+]

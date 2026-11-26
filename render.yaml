@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: afcat-command-center
+    runtime: docker
+    plan: starter
+    numInstances: 1
+    healthCheckPath: /healthz
+    disk:
+      name: afcat-data
+      mountPath: /app/var
+      sizeGB: 1
+    envVars:
+      - key: AFCAT_ADMIN_PASSWORD
+        sync: false

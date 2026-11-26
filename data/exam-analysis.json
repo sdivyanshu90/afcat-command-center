@@ -1,0 +1,99 @@
+{
+  "firstYear": 2011,
+  "lastYear": 2026,
+  "firstSitting": "27 March 2011",
+  "inceptionNote": "The earliest documented AFCAT sitting in this archive is 27 March 2011. Contemporary reporting also identifies an August 2011 sitting.",
+  "inceptionSource": "https://cbseportal.com/JOBS/Application-For-Air-Force-Common-Admission-Test-For-Men-and-Women-MAR-2011",
+  "inceptionCorroboration": "https://www.careerindia.com/news/2011/11/11/afcat-received-good-response-from-karnataka.html",
+  "onlineEra": {
+    "summary": "The Ministry of Defence records the February and August 2018 online AFCAT sittings with C-DAC. For 01/2027, the official notice describes a limited candidate-login window for papers, individual responses and keys.",
+    "source": "https://desw.gov.in/sites/default/files/Annual-report2018-19_0.pdf"
+  },
+  "officialItems": 200,
+  "models": [
+    {
+      "title": "Official model paper I",
+      "url": "https://careerairforce.gov.in/sites/default/files/Selection%20Process/AFCAT%20Model%20Question%20Paper-I.pdf",
+      "ranges": {
+        "en": "1–30",
+        "ga": "31–55",
+        "num": "56–75",
+        "rea": "76–100"
+      }
+    },
+    {
+      "title": "Official model paper II",
+      "url": "https://careerairforce.gov.in/sites/default/files/Selection%20Process/AFCAT%20Model%20Question%20Paper-II.pdf",
+      "ranges": {
+        "en": "1–30",
+        "ga": "31–55",
+        "num": "56–75",
+        "rea": "76–100"
+      }
+    }
+  ],
+  "modelTotals": {
+    "ga": 50,
+    "en": 60,
+    "num": 40,
+    "rea": 50
+  },
+  "method": "Classified all 100 numbered items in each official model by the primary skill tested. Model subjects are counted by position, so repeated or similar concepts can occur in both papers. These are model-paper distributions. The 01/2027 notice gives a paper-wide total and no fixed subject split.",
+  "findings": [
+    {
+      "subject": "en",
+      "summary": "Across both models, vocabulary and language appear in several forms: 6 passage questions, 8 segmented error checks, 8 items in the sentence-completion blocks, 8 synonym or antonym items, 6 cloze items, 6 idiom items, 6 analogies, 6 rearrangements and 6 one-word substitutions. Practise the same vocabulary in sentences and the same grammar rule in different contexts.",
+      "anchors": "Both models, questions 1–30. Model II question 8 is placed in the completion block but its printed stem and options appear mismatched."
+    },
+    {
+      "subject": "ga",
+      "summary": "The models mix fact recall with incorrect-pair checks, matching and statement evaluation. Rotate history, geography, institutions, basic science, public defence knowledge and dated events. Read the exact qualifier before judging an assertion.",
+      "anchors": "Model I, questions 31–55, especially 32, 34, 41 and 44. Model II, questions 31–55, especially 34, 41, 44, 47, 49 and 55."
+    },
+    {
+      "subject": "num",
+      "summary": "Both models contain work/rate, percentage, price/profit, interest and speed applications. Drill the underlying equation, then vary what is given and what is asked. Cover probability, mensuration and statistics as current syllabus objectives even when they are less visible in the two models.",
+      "anchors": "Both models, work/rate at 58–60, profit/loss at 64–66 and interest at 70–72. Model I question 74 is a clocks item retained only as supporting material under the 01/2027 taxonomy."
+    },
+    {
+      "subject": "rea",
+      "summary": "Both models combine visual items and verbal reasoning. Practise classification and analogies, diagram and set relationships, directions, kinship, coding, symbol operations and ordering under time limits.",
+      "anchors": "Model I, questions 76–100, starting with visual items 76–79. Model II, questions 76–100, starting with visual items 76–80."
+    }
+  ],
+  "historicalSamples": [
+    {
+      "label": "02/2011 third-party paper copy",
+      "type": "Unverified third-party copy",
+      "range": "Numbered items 1–9, 25–31 and 41–43",
+      "items": 19,
+      "details": "This copy opens with passage reading and segmented error checks. The selected General Awareness items cover sports and school science, and the numerical sample includes ratios and a mixture problem. These observations describe the copy archived by the publisher.",
+      "url": "https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/05/28161108/AFCAT-PREVIOUS-YEAR-PAPER-2-2011.pdf"
+    },
+    {
+      "label": "01/2017 candidate recollections",
+      "type": "Memory-based",
+      "range": "First 10 listed recollections from the Hyderabad centre",
+      "items": 10,
+      "details": "The selected list concerns General Awareness, spanning dated appointments, sports, historical recall, geography and culture. It represents one recall report centred on General Awareness.",
+      "url": "https://www.ssbcrack.com/2017/02/afcat-1-2017-question-paper-memory-based.html"
+    },
+    {
+      "label": "02/2025 publisher reconstruction",
+      "type": "Memory-based",
+      "range": "Numbered items 1–15 in the 24 August reconstruction",
+      "items": 15,
+      "details": "The sample mixes constitutional office and place-based recall, vocabulary, arithmetic and letter coding. Its order and mix describe the publisher document only.",
+      "url": "https://cdn-images.prepp.in/public/image/AFCAT_2_2025_Question_Paper_PDF_Aug_24_2025__b12064db8c17f81ed76b9d26223daa4b.pdf"
+    },
+    {
+      "label": "02/2026 shift 1 recall summary",
+      "type": "Memory-based topic list",
+      "range": "First 10 topics listed under Shift 1",
+      "items": 10,
+      "details": "The publisher lists topics in public defence, organisations, geography, awards and culture. The entries are topic cues rather than complete numbered questions.",
+      "url": "https://www.defenceguru.co.in/afcat/afcat-2-2026-exam-memory-based-questions-cut-off-paper-analysis"
+    }
+  ],
+  "historicalLimit": "These historical samples are deliberately small and source-dependent. Reported questions can omit shifts, overrepresent what candidates recall, and contain errors. Authenticated historical papers coded in full: zero. No year-by-year frequency or current exam-weight estimate is derived from these samples."
+}

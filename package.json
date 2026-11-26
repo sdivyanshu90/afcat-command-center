@@ -1,0 +1,31 @@
+{
+  "name": "afcat-command-center",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --env-file-if-exists=.env server/index.mjs --dev",
+    "build": "vite build",
+    "start": "node --env-file-if-exists=.env server/index.mjs",
+    "test": "node tests/store.test.mjs",
+    "typecheck": "tsc --noEmit",
+    "test:content": "node tests/numerical-content.mjs && node tests/numerical-second-content.mjs && node tests/reasoning-content.mjs",
+    "build:sites": "node sites-runtime/build.mjs",
+    "test:sites": "node --test tests/sites.test.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "0.468.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.31",
+    "@types/react-dom": "18.3.7",
+    "esbuild": "0.25.12",
+    "typescript": "5.9.3",
+    "vite": "6.4.6"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}

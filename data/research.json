@@ -1,0 +1,21 @@
+{
+ "notification":"https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf",
+ "syllabus":"https://www.careerairforce.gov.in/afcat-syllabus",
+ "models":"https://www.careerairforce.gov.in/afcat-model-questions",
+ "portal":"https://afcat.edcil.co.in",
+ "checked":"2026-11-22",
+ "papers":[
+ {"title":"AFCAT Model Question Paper I","type":"OFFICIAL_MODEL","publisher":"Indian Air Force","year":null,"cycle":null,"complete":"100 questions in source document","key":"https://careerairforce.gov.in/node/265","url":"https://www.careerairforce.gov.in/node/257","rights":"Link only. Reproduction permission unconfirmed."},
+ {"title":"AFCAT Model Question Paper II","type":"OFFICIAL_MODEL","publisher":"Indian Air Force","year":null,"cycle":null,"complete":"100 questions in source document","key":"https://careerairforce.gov.in/node/265","url":"https://careerairforce.gov.in/sites/default/files/Selection%20Process/AFCAT%20Model%20Question%20Paper-II.pdf","rights":"Link only. Reproduction permission unconfirmed."},
+ {"title":"AFCAT 02/2026 paper access record","type":"OFFICIAL_PREVIOUS_YEAR","publisher":"Indian Air Force","year":2026,"cycle":"02","complete":"Unknown. The notification describes a closed candidate access window.","key":null,"url":"https://www.careerairforce.gov.in/sites/default/files/inline-files/AFCAT-Cycle-02-2026-Notification.pdf","rights":"Notification reference only. No paper or key held."},
+ {"title":"AFCAT 01/2026 paper access record","type":"OFFICIAL_PREVIOUS_YEAR","publisher":"Indian Air Force","year":2026,"cycle":"01","complete":"Unknown. Candidate response access described in notice.","key":null,"url":"https://careerairforce.gov.in/sites/default/files/inline-files/Notification-for-AFCAT-01-2026.pdf","rights":"Notification reference only. No paper or key held."},
+ {"title":"AFCAT 02/2025 paper access record","type":"OFFICIAL_PREVIOUS_YEAR","publisher":"Indian Air Force","year":2025,"cycle":"02","complete":"Unknown. Candidate response access described in notice.","key":null,"url":"https://careerairforce.gov.in/sites/default/files/2025-05/Notification%20for%20AFCAT%20Cycle%2002-2025.pdf","rights":"Notification reference only. No paper or key held."}
+ ],
+ "formats":[{"label":"Passage-based comprehension","source":"Both official models open with a reading passage and related items."},{"label":"Short objective items","source":"The official models show four-option factual, language, arithmetic and reasoning items."}],
+ "sample":{"modelDocuments":2,"historicalQuestionsCoded":0,"historicalDateRange":null,"quality":"Official IAF model documents and official historical notifications. Model format observations only."},
+ "affairs":[
+ {"title":"NVS-03 adds to the next-generation NavIC constellation","category":"Science and Technology","event":"2026-10-30","published":"2026-11-01","verified":"2026-11-22","summary":"ISRO launched NVS-03 aboard GSLV-F18. NavIC is India’s regional satellite navigation system.","url":"https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/nov/doc_10335_20261101_11232101.pdf"},
+ {"title":"IPRD 2026 opens in New Delhi","category":"International Affairs","event":"2026-11-03","published":"2026-11-03","verified":"2026-11-22","summary":"The Indian Navy’s Indo-Pacific Regional Dialogue opened with a focus on science, technology and academic cooperation.","url":"https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2332175&lang=1&reg=1"},
+ {"title":"Sea Vigil 2026","category":"Defence","event":"2026-11-11","published":"2026-11-11","verified":"2026-11-22","summary":"The Ministry of Defence announced the fifth edition of Sea Vigil, with the Indian Navy as lead coordinating agency.","url":"https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2335093&lang=1&reg=3"}
+ ]
+}

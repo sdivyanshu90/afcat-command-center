@@ -1,0 +1,370 @@
+[
+  {
+    "subject": "num",
+    "topic": "Decimal Fractions",
+    "subtopic": "Conversion and division",
+    "prompt": "What is 0.675 ÷ 0.45?",
+    "options": [
+      "0.15",
+      "1.35",
+      "1.5",
+      "15"
+    ],
+    "answer": 2,
+    "explanation": "Multiply both numbers by 1,000 to get 675 ÷ 450. Simplify to 3/2, which is 1.5.",
+    "difficulty": "Easy",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Time and Work",
+    "subtopic": "Work rates",
+    "prompt": "Meera can catalogue a set of books in 12 hours. Kabir can catalogue the same set in 18 hours. What fraction of the work remains after they work together for 4 hours at their usual rates?",
+    "options": [
+      "5/9",
+      "4/9",
+      "1/3",
+      "2/9"
+    ],
+    "answer": 1,
+    "explanation": "Together they complete 1/12 + 1/18 = 5/36 of the job per hour. In 4 hours they complete 5/9. The remaining fraction is 1 − 5/9 = 4/9.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Time and Work",
+    "subtopic": "Changing teams",
+    "prompt": "P and Q together can paint a fence in 8 days. P alone would take 12 days. They work together for 3 days, then P leaves. How many more days does Q need to finish the fence at Q’s usual rate?",
+    "options": [
+      "15 days",
+      "12 days",
+      "18 days",
+      "21 days"
+    ],
+    "answer": 0,
+    "explanation": "Q’s daily rate is 1/8 − 1/12 = 1/24. The pair completes 3/8 in 3 days, leaving 5/8. Q takes (5/8) ÷ (1/24) = 15 days.",
+    "difficulty": "Hard",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Averages and Percentages",
+    "subtopic": "Combined averages",
+    "prompt": "The average of 12 test scores is 64. The average of another 8 scores is 79. What is the average of all 20 scores?",
+    "options": [
+      "69",
+      "71.5",
+      "73",
+      "70"
+    ],
+    "answer": 3,
+    "explanation": "The combined total is (12 × 64) + (8 × 79) = 1,400. Dividing by 20 gives 70. The two group averages have different weights because the groups have different sizes.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Averages and Percentages",
+    "subtopic": "Successive percentage changes",
+    "prompt": "The attendance on Saturday was 25% higher than on Friday. On Sunday it was 20% lower than on Saturday. How did Sunday attendance compare with Friday attendance?",
+    "options": [
+      "It was 5% higher.",
+      "It was the same.",
+      "It was 5% lower.",
+      "It was 10% lower."
+    ],
+    "answer": 1,
+    "explanation": "Using 100 as a convenient Friday baseline gives 125 on Saturday. Sunday attendance is 80% of 125, which is 100, so the overall change is zero.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Profit and Loss",
+    "subtopic": "Markup and discount",
+    "prompt": "A bag costs a shopkeeper ₹800. The shopkeeper marks it at ₹1,000 and sells it at a 12% discount on the marked price. What is the profit percentage?",
+    "options": [
+      "8%",
+      "12%",
+      "10%",
+      "20%"
+    ],
+    "answer": 2,
+    "explanation": "The discount is 12% of ₹1,000, or ₹120. The selling price is ₹880, so the profit is ₹80. Profit percentage uses the cost price as its base: 80 ÷ 800 × 100 = 10%.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Ratio and Proportion",
+    "subtopic": "Equivalent ratios",
+    "prompt": "A wall paint is made from blue and white paint in the ratio 3:5 by volume. How much white paint is needed to make 24 litres of the mixture?",
+    "options": [
+      "15 litres",
+      "9 litres",
+      "12 litres",
+      "18 litres"
+    ],
+    "answer": 0,
+    "explanation": "There are 3 + 5 = 8 parts. Each part is 24 ÷ 8 = 3 litres. Five white parts require 5 × 3 = 15 litres.",
+    "difficulty": "Easy",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Simple and Compound Interest",
+    "subtopic": "Annual compounding",
+    "prompt": "On a principal of ₹5,000, what is the difference between compound interest compounded annually and simple interest after 2 years at 8% per annum?",
+    "options": [
+      "₹16",
+      "₹64",
+      "₹80",
+      "₹32"
+    ],
+    "answer": 3,
+    "explanation": "The first year earns ₹400 in both cases. With annual compounding, that ₹400 also earns 8% in the second year, adding ₹32 beyond the simple interest.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Time, Speed, Distance, and Races",
+    "subtopic": "Race margins",
+    "prompt": "In a 400 m race, A finishes when B is at the 360 m mark. If both run at constant speeds, how far from the finish is A when B has covered 180 m from the start?",
+    "options": [
+      "180 m",
+      "200 m",
+      "220 m",
+      "240 m"
+    ],
+    "answer": 1,
+    "explanation": "In the same time, their distances have ratio 400:360 = 10:9. When B covers 180 m, A covers 180 × 10/9 = 200 m. A therefore has 400 − 200 = 200 m left.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Trains",
+    "subtopic": "Passing a platform",
+    "prompt": "A 150 m train moving at a constant 54 km/h takes 18 seconds to pass a platform completely. How long is the platform?",
+    "options": [
+      "100 m",
+      "150 m",
+      "120 m",
+      "270 m"
+    ],
+    "answer": 2,
+    "explanation": "54 km/h equals 15 m/s. From the instant the front reaches the platform until the rear clears it, the train travels 15 × 18 = 270 m. Subtract the train’s 150 m length to get 120 m.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Boats and Streams",
+    "subtopic": "Upstream and downstream speed",
+    "prompt": "A boat covers 24 km downstream in 2 hours and the same distance upstream in 3 hours. If the current is steady and the boat maintains the same speed relative to the water, what is the current’s speed?",
+    "options": [
+      "2 km/h",
+      "3 km/h",
+      "4 km/h",
+      "10 km/h"
+    ],
+    "answer": 0,
+    "explanation": "Downstream speed is 24/2 = 12 km/h and upstream speed is 24/3 = 8 km/h. The current is added in one direction and subtracted in the other, so its speed is (12 − 8)/2 = 2 km/h.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Area and Perimeter",
+    "subtopic": "Equal perimeters",
+    "prompt": "A square and a 14 m by 10 m rectangle have the same perimeter. By how much does the square’s area exceed the rectangle’s?",
+    "options": [
+      "2 m²",
+      "8 m²",
+      "12 m²",
+      "4 m²"
+    ],
+    "answer": 3,
+    "explanation": "The rectangle’s perimeter is 2 × (14 + 10) = 48 m. The square’s side is 12 m and its area is 144 m². The rectangle’s area is 140 m², so the difference is 4 m².",
+    "difficulty": "Easy",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Probability",
+    "subtopic": "Complements without replacement",
+    "prompt": "A bag contains 3 blue counters and 2 green counters. Two counters are drawn at random without replacement. What is the probability that at least one is green?",
+    "options": [
+      "3/10",
+      "7/10",
+      "2/5",
+      "16/25"
+    ],
+    "answer": 1,
+    "explanation": "The only way to draw no green counters is to draw two blue counters. Its probability is (3/5) × (2/4) = 3/10. Subtract from 1 to get 7/10.",
+    "difficulty": "Hard",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Number System and Number Series",
+    "subtopic": "Remainders and divisibility",
+    "prompt": "What is the smallest positive integer that leaves a remainder of 2 when divided by 5 and a remainder of 1 when divided by 3?",
+    "options": [
+      "7",
+      "12",
+      "17",
+      "22"
+    ],
+    "answer": 0,
+    "explanation": "Positive integers with remainder 2 upon division by 5 begin 2, 7, 12, and 17. The number 2 has remainder 2 when divided by 3, but 7 = 3 × 2 + 1, so 7 is the first that meets both conditions.",
+    "difficulty": "Easy",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Number System and Number Series",
+    "subtopic": "Differences of successive terms",
+    "prompt": "A number sequence is 4, 9, 17, 28, 42, … . Each gap is 3 larger than the previous gap. What is the next term?",
+    "options": [
+      "56",
+      "58",
+      "59",
+      "60"
+    ],
+    "answer": 2,
+    "explanation": "The gaps are 5, 8, 11 and 14. The next gap is 17, giving 42 + 17 = 59.",
+    "difficulty": "Easy",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Mixtures and Alligation",
+    "subtopic": "Mixing concentrations",
+    "prompt": "How many litres of a 50% syrup solution should be added to 10 litres of a 20% syrup solution to make a 30% solution? Assume the volumes add directly.",
+    "options": [
+      "3 litres",
+      "8 litres",
+      "10 litres",
+      "5 litres"
+    ],
+    "answer": 3,
+    "explanation": "Let x be the litres added. The syrup volume is 0.20 × 10 + 0.50x, which must equal 0.30 × (10 + x). Rearranging gives 0.20x = 1, so x = 5 litres.",
+    "difficulty": "Hard",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Clocks",
+    "subtopic": "Angles between hands",
+    "prompt": "At 4:20 on an analogue clock, what is the smaller angle between the hour and minute hands?",
+    "options": [
+      "0°",
+      "10°",
+      "20°",
+      "30°"
+    ],
+    "answer": 1,
+    "explanation": "The minute hand is at 20 × 6° = 120° clockwise from 12. The hour hand is at 4 × 30° + 20 × 0.5° = 130°. Their smaller angle is 10°.",
+    "difficulty": "Medium",
+    "source": "https://www.careerairforce.gov.in/afcat-syllabus"
+  },
+  {
+    "subject": "num",
+    "topic": "Squares and Cubes",
+    "subtopic": "Perfect-square factors",
+    "prompt": "What is the least positive integer by which 180 must be multiplied to make a perfect square?",
+    "options": [
+      "5",
+      "2",
+      "10",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "Prime factorisation gives 180 = 2² × 3² × 5. A perfect square has even exponents for all its prime factors. Multiplying by 5 gives 900 = 30².",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "HCF and LCM",
+    "subtopic": "Repeating cycles",
+    "prompt": "Three bells ring every 18, 24 and 30 minutes, respectively. They all ring together at 8:00 a.m. When will they next ring together?",
+    "options": [
+      "10:00 a.m.",
+      "12:00 p.m.",
+      "2:00 p.m.",
+      "4:00 p.m."
+    ],
+    "answer": 2,
+    "explanation": "The first shared interval is the least common multiple. From 18 = 2 × 3², 24 = 2³ × 3 and 30 = 2 × 3 × 5, the LCM is 2³ × 3² × 5 = 360 minutes. Six hours after 8:00 a.m. is 2:00 p.m.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Elementary Mensuration",
+    "subtopic": "Volume and unit conversion",
+    "prompt": "A rectangular tank has internal dimensions 80 cm × 50 cm × 40 cm. What volume of water does it hold when filled to three quarters of its capacity?",
+    "options": [
+      "12 litres",
+      "96 litres",
+      "160 litres",
+      "120 litres"
+    ],
+    "answer": 3,
+    "explanation": "Full volume is 80 × 50 × 40 = 160,000 cm³ or 160 litres because 1 litre equals 1,000 cm³. Three quarters of 160 litres is 120 litres.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Heights and Distances",
+    "subtopic": "Tangent on level ground",
+    "prompt": "From a point on level ground, the line joining that point to the top of a vertical tower makes an angle of 45° with the ground. The point is 18 m from the base. How high is the tower?",
+    "options": [
+      "9 m",
+      "18 m",
+      "18√2 m",
+      "36 m"
+    ],
+    "answer": 1,
+    "explanation": "The tower, ground, and line of sight form a right triangle. Height ÷ horizontal distance equals tan 45° = 1, so the height is 18 m.",
+    "difficulty": "Easy",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Statistics",
+    "subtopic": "Median and mode",
+    "prompt": "For the data 12, 7, 9, 5, 7, 16, 14, 10, what is the median minus the mode?",
+    "options": [
+      "2.5",
+      "2",
+      "3",
+      "3.5"
+    ],
+    "answer": 0,
+    "explanation": "Sorted order is 5, 7, 7, 9, 10, 12, 14, 16. The median averages the fourth and fifth values: (9 + 10)/2 = 9.5. The mode is 7, so the difference is 2.5.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "num",
+    "topic": "Exponents and Powers",
+    "subtopic": "Laws of exponents",
+    "prompt": "What is (2⁵ × 4²) ÷ 8²?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "answer": 2,
+    "explanation": "Write 4 and 8 as 2² and 2³. The expression becomes (2⁵ × 2⁴) ÷ 2⁶ = 2³ = 8.",
+    "difficulty": "Easy",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  }
+]

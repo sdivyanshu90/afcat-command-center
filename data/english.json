@@ -1,0 +1,402 @@
+[
+  {
+    "subject": "en",
+    "topic": "Reading Comprehension",
+    "subtopic": "Main idea",
+    "prompt": "Which statement best captures the central idea of the passage?\n\nA hill-town library moved its opening time from ten to eight after apprentices said that their classes prevented visits once the library opened at ten. In the first month, the total number of loans changed little, but early visitors included people whom librarians had rarely seen before. The staff initially described the experiment as inconclusive. They then noticed that many of the new visitors came to read newspapers or to use a quiet desk and borrowed nothing. In the second month the library began recording desk use as well as loans. It kept the earlier opening time while it gathered more evidence.",
+    "options": [
+      "The new opening time was beneficial because it increased book loans immediately.",
+      "A single measure of library use missed some effects of the change in opening hours.",
+      "Apprentices were more willing to borrow books after the library opened earlier.",
+      "Recording desk use was enough to establish the long-term value of the change."
+    ],
+    "answer": 1,
+    "explanation": "Book loans scarcely changed, but previously uncommon visitors came to read or use desks. The passage shows why the library needed a broader measure of use.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "en",
+    "topic": "Reading Comprehension",
+    "subtopic": "Inference",
+    "prompt": "What does the staff’s final decision most strongly suggest?\n\nA hill-town library moved its opening time from ten to eight after apprentices said that their classes prevented visits once the library opened at ten. In the first month, the total number of loans changed little, but early visitors included people whom librarians had rarely seen before. The staff initially described the experiment as inconclusive. They then noticed that many of the new visitors came to read newspapers or to use a quiet desk and borrowed nothing. In the second month the library began recording desk use as well as loans. It kept the earlier opening time while it gathered more evidence.",
+    "options": [
+      "They expected to return to the original schedule after exactly two months.",
+      "They regarded desk use as more important than book loans.",
+      "They had confirmed that every early visitor was an apprentice.",
+      "They saw a reason to continue the experiment while assessing it more fully."
+    ],
+    "answer": 3,
+    "explanation": "The staff added desk use to their records and kept the new schedule during further observation. Their decision was provisional and supported by the new observations.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "en",
+    "topic": "Reading Comprehension",
+    "subtopic": "Explicit detail",
+    "prompt": "What prompted the library to open two hours earlier?\n\nA hill-town library moved its opening time from ten to eight after apprentices said that their classes prevented visits once the library opened at ten. In the first month, the total number of loans changed little, but early visitors included people whom librarians had rarely seen before. The staff initially described the experiment as inconclusive. They then noticed that many of the new visitors came to read newspapers or to use a quiet desk and borrowed nothing. In the second month the library began recording desk use as well as loans. It kept the earlier opening time while it gathered more evidence.",
+    "options": [
+      "Apprentices reported a conflict between the former opening time and their classes.",
+      "Librarians wanted to record how many desks were occupied.",
+      "People had complained that newspapers were removed too early.",
+      "Borrowing records showed a large fall in the number of loans."
+    ],
+    "answer": 0,
+    "explanation": "The first sentence links the change from ten to eight to the apprentices’ difficulty fitting visits around their classes.",
+    "difficulty": "Easy",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "en",
+    "topic": "Error Detection",
+    "subtopic": "Subject–verb agreement",
+    "prompt": "Which part of the sentence contains an error? The total number / of requests submitted this week / have fallen / below the monthly average.",
+    "options": [
+      "The total number",
+      "of requests submitted this week",
+      "have fallen",
+      "below the monthly average"
+    ],
+    "answer": 2,
+    "explanation": "The subject is the singular noun “number”. The phrase about requests modifies it, so the verb phrase is “has fallen”.",
+    "difficulty": "Medium",
+    "source": "https://dictionary.cambridge.org/grammar/british-grammar/subject-verb-agreement"
+  },
+  {
+    "subject": "en",
+    "topic": "Error Detection",
+    "subtopic": "Verb comparison pattern",
+    "prompt": "Identify the erroneous part. Rina prefers / travelling by train / than / travelling by coach.",
+    "options": [
+      "Rina prefers",
+      "travelling by train",
+      "than",
+      "travelling by coach"
+    ],
+    "answer": 2,
+    "explanation": "The comparison pattern is “prefer X to Y”. The two -ing forms can remain unchanged.",
+    "difficulty": "Easy",
+    "source": "https://dictionary.cambridge.org/grammar/british-grammar/prefer"
+  },
+  {
+    "subject": "en",
+    "topic": "Error Detection",
+    "subtopic": "Dangling modifier",
+    "prompt": "Which part creates a dangling modifier? After checking the timetable, / the departure time / seemed / surprisingly early.",
+    "options": [
+      "After checking the timetable,",
+      "the departure time",
+      "seemed",
+      "surprisingly early"
+    ],
+    "answer": 0,
+    "explanation": "The opening phrase implies that the main-clause subject checked the timetable. A departure time cannot check it. A revision could start “After we checked the timetable, the departure time seemed surprisingly early.”",
+    "difficulty": "Hard",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "en",
+    "topic": "Sentence Completion",
+    "subtopic": "Past perfect",
+    "prompt": "Choose the option that explicitly marks the start of the film as earlier than our arrival. By the time we reached the auditorium, the film ___.",
+    "options": [
+      "will begin",
+      "has begun",
+      "was beginning",
+      "had begun"
+    ],
+    "answer": 3,
+    "explanation": "The past perfect “had begun” puts the start before the later past event, our arrival. “Was beginning” describes an event in progress at the time of arrival.",
+    "difficulty": "Medium",
+    "source": "https://dictionary.cambridge.org/grammar/british-grammar/by-time"
+  },
+  {
+    "subject": "en",
+    "topic": "Sentence Completion",
+    "subtopic": "Conjunctions",
+    "prompt": "Complete the sentence to make the safety inspection a required condition. The organisers will reopen the footbridge ___ it passes the safety inspection.",
+    "options": [
+      "even if",
+      "as though",
+      "provided that",
+      "whereas"
+    ],
+    "answer": 2,
+    "explanation": "“Provided that” introduces a condition that must be satisfied. “Even if” would allow reopening regardless of whether the condition held.",
+    "difficulty": "Medium",
+    "source": "https://dictionary.cambridge.org/grammar/british-grammar/conditionals-other-"
+  },
+  {
+    "subject": "en",
+    "topic": "Correct Word Usage",
+    "subtopic": "Confusable words",
+    "prompt": "Which option completes both blanks? The report described the ___ of the new rule and explained how it might ___ residents.",
+    "options": [
+      "effect / affect",
+      "affect / effect",
+      "affect / affect",
+      "effect / effect"
+    ],
+    "answer": 0,
+    "explanation": "“Effect” is the noun for the result of the rule. “Affect” is the verb meaning to influence someone or something.",
+    "difficulty": "Medium",
+    "source": "https://dictionary.cambridge.org/grammar/british-grammar/part-of-speech-affect-or-effect"
+  },
+  {
+    "subject": "en",
+    "topic": "Correct Word Usage",
+    "subtopic": "Preposition collocation",
+    "prompt": "The inspectors found that the new signs comply ___ the accessibility requirements.",
+    "options": [
+      "to",
+      "for",
+      "with",
+      "over"
+    ],
+    "answer": 2,
+    "explanation": "The fixed pattern is “comply with” a rule, request or requirement. It means to act in accordance with it.",
+    "difficulty": "Easy",
+    "source": "https://dictionary.cambridge.org/dictionary/english/comply"
+  },
+  {
+    "subject": "en",
+    "topic": "Synonyms and Antonyms",
+    "subtopic": "Synonym in context",
+    "prompt": "Choose the closest meaning of “equivocal” in this context. The report gave an equivocal answer, leaving each group convinced that its own proposal was favoured.",
+    "options": [
+      "hostile",
+      "ambiguous",
+      "definitive",
+      "irrelevant"
+    ],
+    "answer": 1,
+    "explanation": "An equivocal answer allows conflicting interpretations. “Ambiguous” fits because each group could interpret the report as supporting its own proposal.",
+    "difficulty": "Hard",
+    "source": "https://dictionary.cambridge.org/dictionary/english/equivocal"
+  },
+  {
+    "subject": "en",
+    "topic": "Synonyms and Antonyms",
+    "subtopic": "Antonym in context",
+    "prompt": "Choose the opposite of “ephemeral” in the phrase “an ephemeral improvement in attendance”.",
+    "options": [
+      "modest",
+      "rapid",
+      "unexpected",
+      "lasting"
+    ],
+    "answer": 3,
+    "explanation": "“Ephemeral” describes something short-lived. “Lasting” contrasts directly with that duration.",
+    "difficulty": "Medium",
+    "source": "https://dictionary.cambridge.org/dictionary/english/ephemeral"
+  },
+  {
+    "subject": "en",
+    "topic": "Synonyms and Antonyms",
+    "subtopic": "Synonym in context",
+    "prompt": "Choose the closest meaning of “circumspect”. The treasurer was circumspect about committing the entire budget before the quotations arrived.",
+    "options": [
+      "cautious",
+      "indifferent",
+      "unprepared",
+      "impatient"
+    ],
+    "answer": 0,
+    "explanation": "A circumspect person weighs possible consequences carefully. The treasurer’s reluctance to commit the whole budget before seeing the quotations illustrates caution.",
+    "difficulty": "Hard",
+    "source": "https://dictionary.cambridge.org/dictionary/english/circumspect"
+  },
+  {
+    "subject": "en",
+    "topic": "Cloze Tests",
+    "subtopic": "Discourse connectors",
+    "prompt": "Fill the gap in this paragraph. The volunteers expected the old clocks to bring in most of the money. ___, it was a set of plain wooden chairs that drew the highest bids. The clocks sold only at the end of the auction.",
+    "options": [
+      "Similarly",
+      "Consequently",
+      "However",
+      "For instance"
+    ],
+    "answer": 2,
+    "explanation": "The second sentence contrasts the expected source of the highest bids with the actual one. “However” signals that contrast.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "en",
+    "topic": "Cloze Tests",
+    "subtopic": "Context and word choice",
+    "prompt": "Fill the gap in this paragraph. An early edition of the walking map showed a footpath through the orchard. Before the next print run, the editor learned that the path had been closed. To avoid directing walkers onto it, she decided to ___ the map.",
+    "options": [
+      "endorse",
+      "reserve",
+      "distribute",
+      "revise"
+    ],
+    "answer": 3,
+    "explanation": "The editor needs to change the map in light of new information. “Revise” expresses that action, while the other verbs leave the erroneous route in place.",
+    "difficulty": "Easy",
+    "source": "https://dictionary.cambridge.org/dictionary/english/revise"
+  },
+  {
+    "subject": "en",
+    "topic": "Idioms and Phrases",
+    "subtopic": "Meaning in context",
+    "prompt": "Kabir had agreed to speak at the meeting, but got cold feet just before his name was called. What happened?",
+    "options": [
+      "He became nervous about going ahead.",
+      "He forgot when the meeting began.",
+      "He went outside to warm up.",
+      "He grew impatient waiting to be called."
+    ],
+    "answer": 0,
+    "explanation": "To get cold feet is to lose confidence or become nervous about something one has agreed or planned to do.",
+    "difficulty": "Easy",
+    "source": "https://dictionary.cambridge.org/dictionary/english/get-cold-feet"
+  },
+  {
+    "subject": "en",
+    "topic": "Idioms and Phrases",
+    "subtopic": "Meaning in context",
+    "prompt": "After the revised accounts were accepted, the committee drew a line under the dispute. What did it do?",
+    "options": [
+      "Referred the dispute for fresh investigation.",
+      "Decided to stop dealing with the dispute.",
+      "Published every detail of the dispute.",
+      "Postponed the next discussion of the dispute."
+    ],
+    "answer": 1,
+    "explanation": "To draw a line under something is to treat it as finished and move on. The acceptance of the revised accounts gave the committee a point of closure.",
+    "difficulty": "Medium",
+    "source": "https://dictionary.cambridge.org/dictionary/english/draw-a-line-under"
+  },
+  {
+    "subject": "en",
+    "topic": "Analogies",
+    "subtopic": "Verb to noun relationship",
+    "prompt": "Complete the analogy. Abbreviate is to abbreviation as amend is to ___.",
+    "options": [
+      "agreement",
+      "assessment",
+      "amendment",
+      "adjustment"
+    ],
+    "answer": 2,
+    "explanation": "An abbreviation can be the product of abbreviating. An amendment can be the product of amending. The pair also preserves the verb-to-noun relationship.",
+    "difficulty": "Medium",
+    "source": "https://dictionary.cambridge.org/dictionary/english/amendment"
+  },
+  {
+    "subject": "en",
+    "topic": "Sentence Rearrangement",
+    "subtopic": "Chronological and referential cues",
+    "prompt": "Arrange the sentences into a coherent paragraph.\nP. She slid her own copy into the envelope instead.\nQ. Mira planned to mail the minutes that afternoon.\nR. At the post office, she sealed the envelope and sent it.\nS. Before leaving, she discovered that the office copy was missing a page.",
+    "options": [
+      "S–Q–P–R",
+      "Q–P–S–R",
+      "Q–S–R–P",
+      "Q–S–P–R"
+    ],
+    "answer": 3,
+    "explanation": "Q establishes the plan. S introduces a problem with the office copy, which gives “instead” in P its meaning. R follows because the envelope is sealed and mailed after the copy is inserted.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "en",
+    "topic": "Sentence Rearrangement",
+    "subtopic": "Pronoun reference",
+    "prompt": "Choose the sentence order that gives each reference a clear meaning.\nP. It was too narrow for the carts.\nQ. For that reason, the crew looked for another route.\nR. The old tunnel led directly to the storehouse.\nS. They found one along the outer wall.",
+    "options": [
+      "R–P–Q–S",
+      "R–Q–P–S",
+      "P–R–S–Q",
+      "R–P–S–Q"
+    ],
+    "answer": 0,
+    "explanation": "R introduces the tunnel, which “it” refers to in P. The narrow tunnel explains the search in Q. “They” and “one” in S then refer to the crew and a route.",
+    "difficulty": "Easy",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "en",
+    "topic": "One-Word Substitution",
+    "subtopic": "Occupations",
+    "prompt": "Which word means a person who compiles or edits a dictionary?",
+    "options": [
+      "cartographer",
+      "lexicographer",
+      "typographer",
+      "stenographer"
+    ],
+    "answer": 1,
+    "explanation": "A lexicographer prepares dictionaries. A cartographer makes maps, a typographer works with type, and a stenographer records speech in shorthand or with specialist equipment.",
+    "difficulty": "Medium",
+    "source": "https://dictionary.cambridge.org/dictionary/english/lexicographer"
+  },
+  {
+    "subject": "en",
+    "topic": "One-Word Substitution",
+    "subtopic": "Language ability",
+    "prompt": "What is the most precise word for a person who can speak several languages?",
+    "options": [
+      "interpreter",
+      "grammarian",
+      "publicist",
+      "polyglot"
+    ],
+    "answer": 3,
+    "explanation": "A polyglot knows and uses several languages. An interpreter’s role involves conveying speech between languages, which is a different criterion from the number of languages a person can speak.",
+    "difficulty": "Medium",
+    "source": "https://dictionary.cambridge.org/dictionary/english/polyglot"
+  },
+  {
+    "subject": "en",
+    "topic": "Sentence Transformation",
+    "subtopic": "Concessive clause reduction",
+    "prompt": "Choose the simple sentence that preserves the meaning of “Although the path was steep, the cyclists completed the climb.”",
+    "options": [
+      "The path was steep, yet the cyclists completed the climb.",
+      "Because of its steepness, the path helped the cyclists complete the climb.",
+      "Despite the steepness of the path, the cyclists completed the climb.",
+      "The cyclists completed the climb after the path became steep."
+    ],
+    "answer": 2,
+    "explanation": "The “despite” phrase preserves the concession while replacing the subordinate clause. The sentence has one finite clause, “the cyclists completed the climb”.",
+    "difficulty": "Hard",
+    "source": "https://dictionary.cambridge.org/grammar/british-grammar/in-spite-of-and-despite"
+  },
+  {
+    "subject": "en",
+    "topic": "Sentence Transformation",
+    "subtopic": "Relative clause reduction",
+    "prompt": "Choose the simple sentence that preserves the meaning of “The students who were in the first row could read the label.”",
+    "options": [
+      "The students in the first row could read the label.",
+      "The students knew that the first row could read the label.",
+      "The students could read the label if they moved to the first row.",
+      "The students read the label and moved to the first row."
+    ],
+    "answer": 0,
+    "explanation": "The phrase “in the first row” identifies the same students without the relative clause. “Could read” preserves their ability to read the label.",
+    "difficulty": "Medium",
+    "source": "https://careerairforce.gov.in/sites/default/files/2026-11/Notification-for-AFCAT-2027.pdf"
+  },
+  {
+    "subject": "en",
+    "topic": "Homonyms",
+    "subtopic": "Identical spelling, distinct meanings",
+    "prompt": "In “A bear crossed the river” and “The bridge can bear the weight”, which meanings of “bear” are used in that order?",
+    "options": [
+      "To endure and to carry",
+      "An animal and to support",
+      "A burden and to produce",
+      "An animal and to tolerate"
+    ],
+    "answer": 1,
+    "explanation": "The first “bear” names an animal. In the second sentence the verb refers to supporting a physical load.",
+    "difficulty": "Easy",
+    "source": "https://dictionary.cambridge.org/dictionary/english/bear"
+  }
+]
